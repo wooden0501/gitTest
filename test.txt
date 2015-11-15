@@ -1,4 +1,4 @@
 hello world;
 first main class;
 object class;
-add me
+hi,I'm comming.
